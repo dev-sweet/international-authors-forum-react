@@ -1,0 +1,18 @@
+.selected-authors {
+    background: #ffffff;
+    padding: 10px 20px;
+    margin-left: 8px;
+    border-radius: 6px;
+    box-shadow: 0 0 10px 0 #9b9b9b;
+}
+.selected-authors h3{
+    margin-top: 5px;
+}
+.authorNames h4 {
+    background: lightgrey;
+    margin-top: 10px;
+    text-align: center;
+    padding: 12px 0px;
+    border-radius: 5px;
+    color: black;
+}

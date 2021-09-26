@@ -1,0 +1,101 @@
+[
+    {
+        "key":"50200021",
+        "name":"Dan Brown",
+        "dateOfBirth":"June 22, 1964",
+        "country":"United States",
+        "popularBook":"The Da Vinci Code",
+        "img":"https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Dan-Brown.jpg",
+        "salary":104000
+    },
+    {
+        "key":"50200022",
+        "name":"J.K. Rowling",
+        "dateOfBirth":" July 31, 1965",
+        "country":"United Kingdom",
+        "popularBook":"Harry Potter",
+        "img":"https://www.webbspy.com/wp-content/uploads/2021/01/J.K.-Rowling.png",
+        "salary":870897
+    },
+    {
+        "key":"50200023",
+        "name":"Nora Roberts",
+        "dateOfBirth":"October 10, 1950",
+        "country":"United States",
+        "popularBook":"Black Hills",
+        "img":"https://www.webbspy.com/wp-content/uploads/2021/01/Nora-Roberts.png",
+        "salary":520896
+    },
+    {
+        "key":"50200024",
+        "name":"James Patterson",
+        "dateOfBirth":"March 22, 1947",
+        "country":"United States",
+        "popularBook":"Humans Bow Down",
+        "img":"https://cdn.luxatic.com/wp-content/uploads/2019/06/James-Patterson.jpg",
+        "salary":460897
+    },
+    {
+        "key":"50200025",
+        "name":"Janet Evanovich",
+        "dateOfBirth":"April 22, 1943",
+        "country":"United States",
+        "popularBook":"One for the Money",
+        "img":"https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Janet-Evanovich.jpg",
+        "salary":126455
+    },
+    {
+        "key":"50200026",
+        "name":"Deepak Chopra",
+        "dateOfBirth":"October 22, 1946",
+        "country":"Indian-Ameriacan",
+        "popularBook":"The Seven Spiritual Laws of Success",
+        "img":"https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Deepak-Chopra.jpg",
+        "salary":150000
+    },
+    {
+        "key":"50200027",
+        "name":"Jack Higgins",
+        "dateOfBirth":"July 27, 1929",
+        "country":"United Kingdom",
+        "popularBook":"The Eagle Has Landed",
+        "img":"https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Jack-Higgins.jpg",
+        "salary":14170
+    },
+    {
+        "key":"50200028",
+        "name":"Barbara Taylor Bradford",
+        "dateOfBirth":"May 1933 ",
+        "country":"British-American",
+        "popularBook":"EMMA'S SECRET",
+        "img":"https://cdn.luxatic.com/wp-content/uploads/2019/06/Barbara-Taylor-Bradford.jpg",
+        "salary":300000
+    },
+    {
+        "key":"50200029",
+        "name":"Danielle Steel",
+        "dateOfBirth":"August 14, 1947",
+        "country":"United States",
+        "popularBook":"Golden Momentss",
+        "img":"https://cdn.luxatic.com/wp-content/uploads/2019/06/Danielle-Steel.jpg",
+        "salary":23000
+    },
+    {
+        "key":"50200030",
+        "name":"Stephenie Meyer",
+        "dateOfBirth":"December 24, 1973",
+        "country":"United States",
+        "popularBook":"Midnight Sun",
+        "img":"https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Stephanie-Meyers.jpg",
+        "salary":40000
+    },
+    {
+        "key":"50200031",
+        "name":"Jeffrey Archer",
+        "dateOfBirth":"April 15, 1940",
+        "country":"United Kingdom",
+        "popularBook":"Only Time Well Tell",
+        "img":"https://cdn.wealthygorilla.com/wp-content/uploads/2018/11/Richest-Authors-Jeffrey-Archer.jpg",
+        "salary":28000
+    }
+]

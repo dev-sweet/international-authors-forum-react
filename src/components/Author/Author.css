@@ -1,0 +1,41 @@
+.author {
+    padding: 30px 25px;
+    border: 1px solid rgb(225 225 225);
+    background: #e3e3e34d;
+    border-radius: 5px;
+    color: #505050;
+    border: 1px solid #e1e1e1;
+    box-shadow: 0 0 5px 0 #00000066;
+}
+.author-image{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.author-image img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}
+.author-details h2{
+    text-align: center;
+    margin-bottom:  15px;
+}
+.author-details p{
+    margin-top: 10px;
+    font-size: 13px;
+}
+.regular-btn{
+    width: 120px;
+    height: 35px;
+    border: none;
+    outline: none;
+    background-color: rgb(209 28 72);
+    color: #fff;
+    margin-top: 20px;
+    border-radius: 5px;
+    transition: .3s;
+}
+.regular-btn:hover{
+    background-color: rgb(163 81 101);
+    cursor: pointer;
+}
