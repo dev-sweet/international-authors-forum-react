@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCartPlus} from '@fortawesome/free-solid-svg-icons';
+import { faUser} from '@fortawesome/free-solid-svg-icons';
 import './Author.css'
 const Author = (props) => {
     const {name,img,dateOfBirth,popularBook,country,salary} = props.author;
@@ -16,7 +16,7 @@ const Author = (props) => {
                 <p>Popular book : {popularBook}</p>
                 <p>Salary : {salary}</p>
              </div>
-             <button className="regular-btn" onClick={()=>props.handleClick(props.author)}><FontAwesomeIcon icon={faCartPlus} /> buy now</button>
+             <button className="regular-btn" onClick={()=>props.handleClick(props.author)}><FontAwesomeIcon icon={faUser} /> Add Author</button>
         </div>
     );
 };
